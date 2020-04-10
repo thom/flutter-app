@@ -1,4 +1,4 @@
-# flutter_app
+# Udemy Flutter Development Bootcamp: flutter-app
 
 Flutter demo app
 
